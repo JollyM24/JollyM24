@@ -16,6 +16,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
-  <img src="https://media.giphy.com/media/zzGETTCgQlYHypN47M/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kBrSH5C4ps9nyNDo4S/giphy.gif" width="100"/>
   <p>Me on Behance: <a href="https://www.behance.net/jollyjoo__art">@jollyjoo__art</a></p>
+  <img src="https://media.giphy.com/media/Uq4wQcTg1cFaYk97rW/giphy.gif" width="100"/>
 </div>
