@@ -17,4 +17,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   <img src="https://media.giphy.com/media/zzGETTCgQlYHypN47M/giphy.gif" width="100"/>
+  <p>Me on Behance: <a href="https://www.behance.net/jollyjoo__art">@jollyjoo__art</a></p>
 </div>
